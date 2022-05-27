@@ -19,8 +19,8 @@ body {
 
 @media (max-width:768px) {
 .main-foto { 
-	text-align: center;
-}
+  text-align: center;
+  }
 }
 .page {
   display: block;
